@@ -1,0 +1,35 @@
+.background {
+    background-color: beige;
+    }
+  .logo{
+    font-family:'Satisfy', cursive;
+    font-size:bond;
+    color:#391306;
+  }
+  .font{
+    color:grey;
+  }
+  
+  .face{
+    color:#0091AD;
+    font-size:40px;
+  }
+  .face:hover{
+    color:#6EFAFB;
+    font-size:60px;
+  }
+  .btn:focus {
+    outline: none !important ;
+    box-shadow: none !important;
+  }
+
+    a {
+      text-decoration: none;
+      color: grey;
+    }
+    a:hover, a:focus, a:active {
+      text-decoration: none;
+      color: #FF57BB;
+    }
+   
+  
